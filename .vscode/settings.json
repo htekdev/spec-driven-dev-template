@@ -1,0 +1,4 @@
+{
+    "chat.useAgentSkills": true,
+    "chat.agent.maxRequests": 4000
+}
